@@ -1,2 +1,1 @@
-# practice_algorithms
-# algorithms
+# Practicing algorithms
